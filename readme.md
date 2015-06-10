@@ -1,4 +1,4 @@
-# is-whitelisted [![Build Status](http://img.shields.io/travis/danielhusar/is-whitelisted.svg?style=flat-square)](https://travis-ci.org/danielhusar/is-whitelisted) [![Dependency Status](http://img.shields.io/gemnasium/danielhusar/is-whitelisted.svg?style=flat-square)](https://gemnasium.com/danielhusar/is-whitelisted)
+# is-whitelisted [![Build Status](https://secure.travis-ci.org/danielhusar/is-whitelisted.svg?branch=master)](https://travis-ci.org/danielhusar/is-whitelisted)
 > Check if variable is whitelisted
 
 ## Install
