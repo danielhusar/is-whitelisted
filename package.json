@@ -1,0 +1,35 @@
+{
+  "name": "is-whitelisted",
+  "version": "0.1.0",
+  "description": "Check if variable is whitelisted",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "whitelist",
+    "whitelisted",
+    "array",
+    "sanitize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielhusar/is-whitelisted"
+  },
+  "author": "Daniel Husar <dano.husar@gmail.com> (https://github.com/danielhusar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielhusar/is-whitelisted/issues"
+  },
+  "homepage": "https://github.com/danielhusar/is-whitelisted",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
